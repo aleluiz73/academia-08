@@ -1,0 +1,12 @@
+/* ======= NAVBAR ======= */
+nav {
+    background-color: aquamarine;
+}
+/* ======= HEDER ======= */
+header{
+    background-color: #ff2468;
+}
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
