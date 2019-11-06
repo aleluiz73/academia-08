@@ -1,0 +1,33 @@
+x = criança 
+x [
+CONSEITOS
+	copas = coração vermelho
+	paus = trevo preto
+	pica-fumo = losangulo vermelho
+	espadas = coração invertiido preto
+	carta {1,2,3,4,5,6,7,8,9,j,Q,K}
+]
+
+BARALHO[
+cartas
+	COPAS{1,2,3,4,5,6,7,8,9,J,Q,K}
+	PAUS{1,2,3,4,5,6,7,8,9,J,Q,K}
+	PICA-FUMO{1,2,3,4,5,6,7,8,9,J,Q,K}
+	ESPADA{1,2,3,4,5,6,7,8,9,J,Q,K}
+]
+
+pegue uma carta no BARALHO e compare ao CONSEITO carta 3 de espadas 
+	se achar gritar truco ladrão e encerre o processo
+	se não pegue a proxima e repita o proceso
+
+
+
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50
+ache a metade emtre 1 e 50 
+	dividindo do untimo numero mais o primero numero por 2 (50/2)
+pergunte se o numero encontrado é maidor ou menor ou igual que o pensado
+se for igual grite "eu sou foda" 
+se for menor a metade encontrada se torna o untimo numero e o proseso se repete 
+se for maior a metade encontrada se trona o primero numero e o proseso se repete
+condição = so sera considerado numeros inteiros
+
